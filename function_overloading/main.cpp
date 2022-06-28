@@ -26,9 +26,17 @@ cout<<a <<endl;
 
 }
 
+void fun(string a){
+
+cout<<a <<endl;
+
+}
+
 int main()
 {
     //call function and overloading those function
+    cout<<"ss";
+     cout<<"ss";
      fun(10);
      fun(90.99);
      fun(10,20);
